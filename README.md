@@ -1,3 +1,14 @@
+## Run Project Instructions
+- Clone the repository
+```
+git clone https://github.com/smartge3k/natural-cycle-frontend.git
+```
+- Install dependencies
+```
+cd <project_name>
+npm install
+```
+
 
 ## Available Scripts
 
